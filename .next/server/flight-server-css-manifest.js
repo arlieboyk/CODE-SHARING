@@ -1,0 +1,32 @@
+self.__RSC_CSS_MANIFEST={
+  "__entry_css_mods__": {
+    "E:\\Documents\\Programming\\JS\\NEXT.js\\JANUARY\\4th\\fourth\\app\\page": [
+      "E:\\Documents\\Programming\\JS\\NEXT.js\\JANUARY\\4th\\fourth\\styles\\globals.css",
+      "E:\\Documents\\Programming\\JS\\NEXT.js\\JANUARY\\4th\\fourth\\node_modules\\@next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "E:\\Documents\\Programming\\JS\\NEXT.js\\JANUARY\\4th\\fourth\\styles\\globals.css"
+    ],
+    "E:\\Documents\\Programming\\JS\\NEXT.js\\JANUARY\\4th\\fourth\\app\\todos\\[todoId]\\page": [
+      "E:\\Documents\\Programming\\JS\\NEXT.js\\JANUARY\\4th\\fourth\\styles\\globals.css",
+      "E:\\Documents\\Programming\\JS\\NEXT.js\\JANUARY\\4th\\fourth\\node_modules\\@next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "E:\\Documents\\Programming\\JS\\NEXT.js\\JANUARY\\4th\\fourth\\styles\\globals.css"
+    ],
+    "E:\\Documents\\Programming\\JS\\NEXT.js\\JANUARY\\4th\\fourth\\app\\search\\page": [
+      "E:\\Documents\\Programming\\JS\\NEXT.js\\JANUARY\\4th\\fourth\\styles\\globals.css",
+      "E:\\Documents\\Programming\\JS\\NEXT.js\\JANUARY\\4th\\fourth\\node_modules\\@next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "E:\\Documents\\Programming\\JS\\NEXT.js\\JANUARY\\4th\\fourth\\styles\\globals.css"
+    ],
+    "E:\\Documents\\Programming\\JS\\NEXT.js\\JANUARY\\4th\\fourth\\app\\todos\\page": [
+      "E:\\Documents\\Programming\\JS\\NEXT.js\\JANUARY\\4th\\fourth\\styles\\globals.css",
+      "E:\\Documents\\Programming\\JS\\NEXT.js\\JANUARY\\4th\\fourth\\node_modules\\@next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "E:\\Documents\\Programming\\JS\\NEXT.js\\JANUARY\\4th\\fourth\\styles\\globals.css"
+    ]
+  },
+  "E:\\Documents\\Programming\\JS\\NEXT.js\\JANUARY\\4th\\fourth\\app\\layout.tsx": [
+    "E:\\Documents\\Programming\\JS\\NEXT.js\\JANUARY\\4th\\fourth\\node_modules\\@next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+    "E:\\Documents\\Programming\\JS\\NEXT.js\\JANUARY\\4th\\fourth\\styles\\globals.css",
+    "E:\\Documents\\Programming\\JS\\NEXT.js\\JANUARY\\4th\\fourth\\styles\\globals.css"
+  ],
+  "E:\\Documents\\Programming\\JS\\NEXT.js\\JANUARY\\4th\\fourth\\app\\todos\\layout.tsx": [
+    "E:\\Documents\\Programming\\JS\\NEXT.js\\JANUARY\\4th\\fourth\\node_modules\\@next\\font\\google\\target.css?{\"path\":\"app\\\\todos\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+  ]
+}
